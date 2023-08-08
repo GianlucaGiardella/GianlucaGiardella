@@ -11,6 +11,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=GianlucaGiardella&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gianlucagiardella) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/OhGianlu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/OhGianlu) [!][Codewars](https://github.r2v.ch/codewars?user=OhGianlu&stroke=COLOR&theme=dark&hide_clan=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gianlucagiardella) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/OhGianlu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/OhGianlu) ![Codewars](https://github.r2v.ch/codewars?user=OhGianlu&stroke=COLOR&theme=dark&hide_clan=true)
 
 
